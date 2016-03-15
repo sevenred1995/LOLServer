@@ -1,0 +1,10 @@
+D:\UnityProject\LOLProject\LOLserver\LOLServer\NetFrame\bin\Release\NetFrame.dll
+D:\UnityProject\LOLProject\LOLserver\LOLServer\NetFrame\bin\Release\NetFrame.pdb
+D:\UnityProject\LOLProject\LOLserver\LOLServer\NetFrame\obj\Release\NetFrame.csprojResolveAssemblyReference.cache
+D:\UnityProject\LOLProject\LOLserver\LOLServer\NetFrame\obj\Release\NetFrame.dll
+D:\UnityProject\LOLProject\LOLserver\LOLServer\NetFrame\obj\Release\NetFrame.pdb
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\NetFrame\bin\Release\NetFrame.dll
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\NetFrame\bin\Release\NetFrame.pdb
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\NetFrame\obj\Release\NetFrame.csprojResolveAssemblyReference.cache
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\NetFrame\obj\Release\NetFrame.dll
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\NetFrame\obj\Release\NetFrame.pdb

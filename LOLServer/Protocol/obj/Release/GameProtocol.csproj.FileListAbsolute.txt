@@ -1,0 +1,12 @@
+D:\UnityProject\LOLProject\LOLserver\LOLServer\Protocol\obj\Release\GameProtocol.csprojResolveAssemblyReference.cache
+D:\UnityProject\LOLProject\LOLserver\LOLServer\Protocol\bin\Release\GameProtocol.dll
+D:\UnityProject\LOLProject\LOLserver\LOLServer\Protocol\bin\Release\GameProtocol.pdb
+D:\UnityProject\LOLProject\LOLserver\LOLServer\Protocol\obj\Release\GameProtocol.dll
+D:\UnityProject\LOLProject\LOLserver\LOLServer\Protocol\obj\Release\GameProtocol.pdb
+D:\UnityProject\LOLProject\LOLclient\Assets\Plugins\GameProtocol.dll
+D:\UnityProject\LOLProject\LOLclient\Assets\Plugins\GameProtocol.pdb
+E:\Unity3D_Project\LOLProject\LOLclient\Assets\Plugins\GameProtocol.dll
+E:\Unity3D_Project\LOLProject\LOLclient\Assets\Plugins\GameProtocol.pdb
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\Protocol\obj\Release\GameProtocol.csprojResolveAssemblyReference.cache
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\Protocol\obj\Release\GameProtocol.dll
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\Protocol\obj\Release\GameProtocol.pdb

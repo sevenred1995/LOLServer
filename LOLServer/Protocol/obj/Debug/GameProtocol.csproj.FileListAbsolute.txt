@@ -1,0 +1,17 @@
+D:\UnityProject\LOLProject\LOLserver\LOLServer\Protocol\obj\Debug\GameProtocol.csprojResolveAssemblyReference.cache
+D:\UnityProject\LOLProject\LOLserver\LOLServer\Protocol\bin\Debug\GameProtocol.dll
+D:\UnityProject\LOLProject\LOLserver\LOLServer\Protocol\bin\Debug\GameProtocol.pdb
+D:\UnityProject\LOLProject\LOLserver\LOLServer\Protocol\obj\Debug\GameProtocol.dll
+D:\UnityProject\LOLProject\LOLserver\LOLServer\Protocol\obj\Debug\GameProtocol.pdb
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\Protocol\bin\Debug\GameProtocol.dll
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\Protocol\bin\Debug\GameProtocol.pdb
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\Protocol\obj\Debug\GameProtocol.dll
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\Protocol\obj\Debug\GameProtocol.pdb
+E:\Unity3D_Project\LOLProject\LOLclient\Assets\Plugins\GameProtocol.dll
+E:\Unity3D_Project\LOLProject\LOLclient\Assets\Plugins\GameProtocol.pdb
+E:\Unity3D_Project\LOLProject\LOLserver\LOLServer\Protocol\obj\Debug\GameProtocol.csprojResolveAssemblyReference.cache
+E:\Unity3D_Project\新建文件夹\LOLclient\Assets\Plugins\GameProtocol.dll
+E:\Unity3D_Project\新建文件夹\LOLclient\Assets\Plugins\GameProtocol.pdb
+E:\Unity3D_Project\新建文件夹\LOLserver\LOLServer\Protocol\obj\Debug\GameProtocol.csprojResolveAssemblyReference.cache
+E:\Unity3D_Project\新建文件夹\LOLserver\LOLServer\Protocol\obj\Debug\GameProtocol.dll
+E:\Unity3D_Project\新建文件夹\LOLserver\LOLServer\Protocol\obj\Debug\GameProtocol.pdb
